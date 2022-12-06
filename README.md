@@ -12,3 +12,7 @@ Sample website with plenty of files for demos.
 Deployment text.
 
 ## How To Contribute
+
+### Copyright
+
+2022 JHAR
