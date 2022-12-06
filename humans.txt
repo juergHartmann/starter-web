@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Juerg -- Boss -- No twitter
 
 # THANKS
 
