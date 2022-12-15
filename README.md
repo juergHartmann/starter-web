@@ -19,4 +19,4 @@ Please fork this repository and then issue Pull Requests for review.
 
 ### Copyright
 
-2022 JHAR
+2022 JHAR. All rights reserved
